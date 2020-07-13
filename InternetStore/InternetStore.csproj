@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="vlluzzgz.ypd~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InternetStore.BL\InternetStore.BL.csproj" />
+    <ProjectReference Include="..\InternetStore.Common\InternetStore.Common.csproj" />
+    <ProjectReference Include="..\InternetStore.DAL\InternetStore.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,4 @@
+D:\Solutions\InternetStore\InternetStore.Common\obj\Debug\netcoreapp3.1\InternetStore.Common.csprojAssemblyReference.cache
+D:\Solutions\InternetStore\InternetStore.Common\obj\Debug\netcoreapp3.1\InternetStore.Common.AssemblyInfoInputs.cache
+D:\Solutions\InternetStore\InternetStore.Common\obj\Debug\netcoreapp3.1\InternetStore.Common.AssemblyInfo.cs
+D:\Solutions\InternetStore\InternetStore.Common\obj\Debug\netcoreapp3.1\InternetStore.Common.csproj.CoreCompileInputs.cache
